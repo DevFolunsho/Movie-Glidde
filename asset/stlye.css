@@ -9,10 +9,14 @@ body {
 header {
     width: 80%;
     margin-bottom: 50px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
 }
 
-.title {
-    font-size: 30px;
+.title,.fa-bars {
+    margin: 0px;
+    font-size: 25px;
     color: rgb(255, 213, 0);
 }
 
