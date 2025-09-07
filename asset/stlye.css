@@ -50,6 +50,11 @@ button {
     color: white;
 }
 
+button:hover {
+    background-color: rgb(255, 213, 0);
+    color: black;
+}
+
 article {
     width: 80%;
     height: 400px;
