@@ -1,0 +1,1 @@
+Movie Glidde is a modern movie discovery app that lets you explore, search, and keep track of your favorite films. Whether you’re into action, romance, sci-fi, or indie gems, Movie Glidde brings the cinema to your fingertips with an easy-to-use interface.
