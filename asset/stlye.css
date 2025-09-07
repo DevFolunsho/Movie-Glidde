@@ -32,6 +32,13 @@ main {
     text-align: center;
 }
 
+.previous {
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+
+}
+
 .work {
     color: rgb(109, 115, 115);
     margin-bottom: 50px;
@@ -140,4 +147,11 @@ h1 {
 
 .wo {
     background-color: rgb(185, 92, 92);
+}
+
+.mv {
+    margin-top: 20px;
+    height: 300px;
+    width: auto;
+    background-color: rgb(64, 58, 51);
 }
