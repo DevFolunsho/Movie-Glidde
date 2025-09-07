@@ -155,3 +155,28 @@ h1 {
     width: auto;
     background-color: rgb(64, 58, 51);
 }
+
+.result {
+    height: 0px;
+    width: 0px;
+}
+
+.top {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.input-result {
+    width: 150px;
+
+}
+
+h4 {
+    margin: 0px;
+}
+
+.rel {
+    background-color: rgb(192, 202, 210);
+}
