@@ -82,3 +82,42 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+title {
+    color: white;
+    background-color: brown;
+} 
+
+input {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: rgba(226, 221, 221, 0.811);
+    padding-left: 10px;
+    background-color: rgb(48, 50, 51);
+}
+
+.search {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin: 50px 0px;
+}
+
+.bar {
+    height: 200px;
+    width: 200px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.coming {
+    font-size: 30px;
+}
