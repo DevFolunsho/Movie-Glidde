@@ -40,6 +40,7 @@ main {
 .previous {
     display: flex;
     justify-content: left;
+    align-items: center;
     gap: 10px;
 
 }
@@ -184,10 +185,15 @@ h4 {
     background-color: rgb(192, 202, 210);
 }
 
-.search-movies {
-    flex-grow: 1;
-}
 
 .search-result {
     height: 100%;
+}
+
+.movie-details {
+    height: 100%;
+}
+
+.upper {
+    flex-grow: 1;
 }
