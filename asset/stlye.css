@@ -1,9 +1,13 @@
 body {
+    width: 100vw;
+    height: 100vh;
     background-color: black;
     color: white;
+    margin: 0px;
+}
+.content {
     display: flex;
     flex-direction: column;
-    margin: 0px;
     align-items: center;
 }
 
@@ -178,4 +182,12 @@ h4 {
 
 .rel {
     background-color: rgb(192, 202, 210);
+}
+
+.search-movies {
+    flex-grow: 1;
+}
+
+.search-result {
+    height: 100%;
 }
