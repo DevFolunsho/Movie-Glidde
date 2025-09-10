@@ -1,7 +1,7 @@
 body {
     width: 100vw;
     height: 100vh;
-    background-color: black;
+    background-color: rgb(14, 9, 9);
     color: white;
     margin: 0px;
 }
@@ -196,4 +196,4 @@ h4 {
 
 .upper {
     flex-grow: 1;
-}
+} 
